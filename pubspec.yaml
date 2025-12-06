@@ -27,6 +27,8 @@ environment:
 # dependencies can be manually updated by changing the version numbers below to
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
+homepage: https://github.com/Mahendran444/button_plugin.git
+repository: https://github.com/Mahendran444/button_plugin.git
 dependencies:
   flutter:
     sdk: flutter
