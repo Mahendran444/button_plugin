@@ -17,7 +17,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
-  button_plugin:
+  button_user_plugin:
     dependency: "direct main"
     description:
       path: ".."
